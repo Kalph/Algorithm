@@ -1,4 +1,7 @@
-a = int(input()) 
+
+#mercy.py
+
+a= int(input()) 
 
 num = 0 
 
