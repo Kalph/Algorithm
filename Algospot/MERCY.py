@@ -1,5 +1,4 @@
 
-#MERCY.py
 
 a= int(input()) 
 
