@@ -1,3 +1,5 @@
+
+```py
 num1 = int(input())
 
 for i in range(0, num1):
@@ -5,8 +7,11 @@ for i in range(0, num1):
 b = int(input())
 
 print((b & 0xff000000) >> 24) | ((b & 0xff0000) >> 8)|((b & 0xff00) << 8) | ((b & 0xff) << 24)
+```
 
-'''
+<br/>
+
+```py
 # 다른 답안
 
 for i in range(int(input())):
@@ -15,16 +20,17 @@ print(((x & 0x000000ff) << 24) |\
 ((x & 0x0000ff00) << 8) |\
 ((x & 0x00ff0000) >> 8) |\
 ((x & 0xff000000) >> 24))
-'''
+```
 
-'''해설
+<br/>
+
  간단하게 프린트로 출력하고 싶었고 제일 앞 부터 78 56 34 12를 12 34 56 78 따로따로 하나의 코드로 묶어준 것임 그리고
- | 를 넣은것은 사실 보면 | 비트연산자는 의미가 서로 달라도 참 이라는 것 이 점을 이용하면 된다는 것이었다는 것이다.
-'''
+  를 넣은것은 사실 보면 | 비트연산자는 의미가 서로 달라도 참 이라는 것 이 점을 이용하면 된다는 것이었다는 것이다.
+
 
 # 그 외 답안
 
-'''
+```py
 def endian():
 	a = []
 	b = []
@@ -54,9 +60,11 @@ def endian():
 count = input()
 for i in range(count):
 	endian()
-  '''
+```
+
+<br/>
   
-  '''
+```py
 T = int(input())
 for ti in range(T):
   num = int(input())
@@ -65,10 +73,12 @@ for ti in range(T):
   c = (num & 0xff00) << 8
   d = (num & 0xff) << 24
   print(a + b +c +d)
-  '''
+```
+
+<br/>
   
   # struct 이용한 답
-  '''
+```py
   import sys  
 import struct  
 
@@ -79,4 +89,4 @@ rl = lambda: sys.stdin.readline()
 n = int(rl())  
 for i in range(n):  
     print swap32(int(rl()))  
-    '''
+```
