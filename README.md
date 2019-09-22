@@ -1,4 +1,4 @@
-# Algorithm
+Algorithm
 ==============
 
 ### 알고리즘 공부 및 문제 풀이
@@ -6,8 +6,8 @@
 <br/>
 
 ## 목차 
-* [Algospot](#Algospot) <br/>
-* [백준 알고리즘](#백준-알고리즘) <br/>
+* [Algospot](#algospot-) <br/>
+* [백준 알고리즘](#백준-알고리즘-) <br/>
 
 <br/>
 
