@@ -6,7 +6,7 @@ Algorithm
 <br/>
 
 ## 목차 
-* [Algospot](#algospot-) <br/>
+* [Algospot](#algospot) <br/>
 * [백준 알고리즘](#백준-알고리즘-) <br/>
 * [프로그래머스](#프로그래머스) <br/>
 
