@@ -1,4 +1,4 @@
-[사이트 링크 : 코딩테스트 연습 - 완주하지 못한 선수 | 프로그래머스 https://programmers.co.kr/learn/courses/30/lessons/42576] <br>
+[사이트 링크 : 코딩테스트 연습 - 완주하지 못한 선수 | 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42576) <br>
 
 <br>
  
