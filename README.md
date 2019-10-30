@@ -8,6 +8,7 @@ Algorithm
 ## 목차 
 * [Algospot](#algospot-) <br/>
 * [백준 알고리즘](#백준-알고리즘-) <br/>
+* [프로그래머스](#프로그래머스) <br/>
 
 <br/>
 
@@ -31,14 +32,9 @@ Algorithm
  3.
  4.
  5.
- 6.
- 7.
- 8.
- 9.
- 10.
 
 <br/>
 
 > ## 프로그래머스 <br/>
  * 해시
-  * [완주하지 못한 선수](https://github.com/Kalph/Algorithm/tree/master/Programmers)<br/>
+   * [완주하지 못한 선수](https://github.com/Kalph/Algorithm/tree/master/Programmers)<br/>
