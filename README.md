@@ -37,4 +37,4 @@ Algorithm
 
 > ## 프로그래머스 <br/>
  * 해시
-   * [1. 완주하지 못한 선수](https://github.com/Kalph/Algorithm/tree/master/Programmers)<br/>
+   * [1. 완주하지 못한 선수](https://github.com/Kalph/Algorithm/blob/master/Programmers/1_Hash.md)<br/>
