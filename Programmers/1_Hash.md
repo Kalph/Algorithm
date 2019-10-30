@@ -1,4 +1,4 @@
-[사이트 링크 : 코딩테스트 연습 - 완주하지 못한 선수 | 프로그래머스 https://programmers.co.kr/learn/courses/30/lessons/42576](solution.cpp 1 #include <string> 2 #include <vector> 3 ​ 4 using namespace std ; 5 ​ 6 string solution ( vector < string > participant , vector < string > completion ) { 7 string answer = "" ; 8 return answer ; 9 } 실행 결과 실행 결과가 여기에 표시됩니다. 문제 설명 구현해야 하는 내용에 대한 설명입니다. 잘 읽고 설명에 따라 코드를 작성하세요. 1 / 7 〈 이전...)
+[사이트 링크 : 코딩테스트 연습 - 완주하지 못한 선수 | 프로그래머스 https://programmers.co.kr/learn/courses/30/lessons/42576] <br>
 
 <br>
 
