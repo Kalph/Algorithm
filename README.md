@@ -13,7 +13,7 @@ Algorithm
 
 <br/>
 
-> ## Algospot <br>
+> ## Algospot<br>
  1. [튜토리얼 1 - MERCY](https://github.com/Kalph/Algorithm/tree/master/Algospot)<br/>
  2. [튜토리얼 2 - ENDIANS](https://github.com/Kalph/Algorithm/blob/master/Algospot/ENDIANS.py)<br/>
  3. [튜토리얼 3 - DRAWRECT](https://github.com/Kalph/Algorithm/blob/master/Algospot/DRAWRECT.py)<br/>
@@ -27,7 +27,7 @@ Algorithm
  
 <br/>
  
-> ## 백준 알고리즘 <br/>
+> ## 백준 알고리즘<br/>
  1. 
  2.
  3.
@@ -36,7 +36,7 @@ Algorithm
 
 <br/>
 
-> ## 프로그래머스 <br/>
+> ## 프로그래머스<br/>
  * 해시
    1. [완주하지 못한 선수](https://github.com/Kalph/Algorithm/blob/master/Programmers/1_Hash.md)<br/>
    
